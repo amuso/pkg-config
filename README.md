@@ -2,6 +2,7 @@
 ## Version 0.29.1
 
 Read more at https://www.freedesktop.org/wiki/Software/pkg-config/
+
 For building rtl-sdr (and other software packages)
 
 ## Requirements
